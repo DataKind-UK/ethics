@@ -3,30 +3,43 @@
 # Books
 
 ### Weapons of math destruction: How Big Data Increases Inequality and Threatens Democracy	  
-Cathy O'Neill	(2016)   
-[Link to site](https://www.bitbybitbook.com/en/1st-ed/preface/)
+Cathy O'Neill	(2016) [Link to site](https://www.bitbybitbook.com/en/1st-ed/preface/)
 
 ### Bit by Bit: Social Research in the Digital Age	  
-Matthew Salgnanik	(2017)  
-[Read online](https://www.bitbybitbook.com/en/1st-ed/preface/)
+Matthew Salgnanik	(2017) [Read online](https://www.bitbybitbook.com/en/1st-ed/preface/)
 
 ### We Are Data: Algorithms and the Making of Our Digital Selves	
-John Cheney-Lippold	(2018)  
-[Link to PDF - internal use only](https://drive.google.com/file/d/1rUyvEkmWzOky0JQXvMC5G737WPP38Jwf/view)
+John Cheney-Lippold	(2018) [Link to PDF - internal use only](https://drive.google.com/file/d/1rUyvEkmWzOky0JQXvMC5G737WPP38Jwf/view)
 
 ### Automating Inequality: How High-Tech Tools Profile, Police and Punish the Poor	
-Virginia Eubanks	(2018)  
-[Link to PDF - internal use only](https://drive.google.com/file/d/18wGE_VblzHk0XQd8wbudo7PLdXxiJ8A9/view)
+Virginia Eubanks	(2018) [Link to PDF - internal use only](https://drive.google.com/file/d/18wGE_VblzHk0XQd8wbudo7PLdXxiJ8A9/view)
 
 ### Algorithms of Oppression: How Search Engines Reinforce Racism	
-Safiya Noble	2018   
-[Link to PDF - internal use only](https://drive.google.com/file/d/1L8qkI1Ma4YqTp9K4agbLHzUg6GOmnu2Q/view)
+Safiya Noble	2018 [Link to PDF - internal use only](https://drive.google.com/file/d/1L8qkI1Ma4YqTp9K4agbLHzUg6GOmnu2Q/view)
 
 # Academic papers
+
+
+# Reports  
+### Future data-driven technologies and the implications for use of patient data  
+Academy of Medical Sciences	(2018) [read here](https://acmedsci.ac.uk/file-download/6616969)  
+
+### White House Report on Big Data “Big Data: Seizing Opportunities, Preserving Values”	  
+White House	(2014) [read here](https://obamawhitehouse.archives.gov/sites/default/files/docs/big_data_privacy_report_may_1_2014.pdf)  
+
+### Draft Ethics guidelines for trustworthy AI	European Commission’s High-Level Expert Group on Artificial Intelligence (AI HLEG)   
+Floridi led	(2018/2019?) [read here](https://ec.europa.eu/digital-single-market/en/news/draft-ethics-guidelines-trustworthy-ai)
+
+### algo:aware - State-of-the-Art Report | Algorithmic decision-making	
+European Commission’s Directorate - General for Communications Networks, Content and Technology (2019) [read here / broken link?](https://www.algoaware.eu/wp-content/uploads/2018/08/AlgoAware-State-of-the-Art-Report.pdf)
+
 
 # Media / articles
 
 # Tools
+AI Fairness 360 Open Source Toolkit, IBM [access here](http://aif360.mybluemix.net/)  
+Ethics and Algorithms toolkit, Center for Gov [access here](https://ethicstoolkit.ai/)  
+Machine Ethics Toolkit, James Zhou [download here](https://machineethicstoolkit.com/)  
 
 # Ethics guidelines
 For reference only, DK does not officially sign off on any of those! In fact there are some that we strongly disagree with, but it is all interesting.   
