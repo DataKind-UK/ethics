@@ -1,7 +1,14 @@
 # Ethics resources
 
-* [0. Books](#books)
-* [1. Tools](#tools)
+* [Books](#books)
+* [Academic papers](#aca)
+* [Reports](#reports)
+* [Media articles](#media)
+* [Ethics guidelines and frameworks](#frame)
+* [Tools](#tools)
+* [Book clubs](#club)
+* [Courses](#courses)
+* [Misc.](#misc)
 
 # BOOKS<a class="anchor" id="books"></a>
 
@@ -20,7 +27,7 @@ Virginia Eubanks	(2018) [Link to PDF - internal use only](https://drive.google.c
 #### Algorithms of Oppression: How Search Engines Reinforce Racism	
 Safiya Noble	2018 [Link to PDF - internal use only](https://drive.google.com/file/d/1L8qkI1Ma4YqTp9K4agbLHzUg6GOmnu2Q/view)
 
-# ACADEMIC PAPERS
+# ACADEMIC PAPERS<a class="anchor" id="aca"></a>
 #### Big Data’s Disparate Impact	 
 Barocas & Selbst (2016), from NYU course [read here](www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf)
 
@@ -51,7 +58,7 @@ Simon DeDeo	(2016) de-biasing vs accuracy [read here](https://arxiv.org/pdf/1412
 #### Envisioning Systemic Effects on Persons and Society Throughout Interactive System Design	
 Nathan et. al	(2008) [read here](https://vsdesign.org/publications/pdf/402_nathan.pdf)
 
-# REPORTS
+# REPORTS<a class="anchor" id="reports"></a>
 #### Future data-driven technologies and the implications for use of patient data  
 Academy of Medical Sciences	(2018) [read here](https://acmedsci.ac.uk/file-download/6616969)  
 
@@ -65,7 +72,7 @@ Floridi led	(2018/2019?) [read here](https://ec.europa.eu/digital-single-market/
 European Commission’s Directorate - General for Communications Networks, Content and Technology (2019) [read here / broken link?](https://www.algoaware.eu/wp-content/uploads/2018/08/AlgoAware-State-of-the-Art-Report.pdf)
 
 
-# MEDIA / ARTICLES
+# MEDIA / ARTICLES<a class="anchor" id="media"></a>
 
 #### Regulating AI in the era of big tech	
 Melody Guan (Stanford) / The Gradient	2018 [read here](https://thegradient.pub/regulating-ai-in-the-era-of-big-tech/)
@@ -103,7 +110,7 @@ Casey Fiesler	(2019)	addendum to the previous Ethics Curricula list [read here](
 - Ethics and Algorithms toolkit, Center for Gov [access here](https://ethicstoolkit.ai/)  
 - Machine Ethics Toolkit, James Zhou [download here](https://machineethicstoolkit.com/)  
 
-# ETHICS GUIDELINES AND FRAMEWORKS
+# ETHICS GUIDELINES AND FRAMEWORKS<a class="anchor" id="frame"></a>
 For reference only, DK does not officially sign off on any of those! In fact there are some that we strongly disagree with, but it is all interesting.   
 
 - A Grand Bargain on Data Privacy Legislation for America, ITIF (Information Technology and Innovation Foundation) (2019)  
@@ -147,9 +154,14 @@ For reference only, DK does not officially sign off on any of those! In fact the
 
 - AI Policy Principles, ITI (Information Technology Industry Council) [read here](https://www.itic.org/public-policy/ITIAIPolicyPrinciplesFINAL.pdf)
 
-# BOOK CLUBS
+# BOOK CLUBS and reading lists<a class="anchor" id="club"></a>
+- AI Safety reading group	[reading list](https://aisafety.com/reading-group/)
+- Artificial Intelligence, Global Catastrophic Risk Institute [reading list](gcrinstitute.org/ai/) 
+- AI safety syllabus, 80,000 hours [reading list](https://80000hours.org/articles/ai-safety-syllabus/)
+- AI safety resources, Victoria Krakovna [reading list](https://vkrakovna.wordpress.com/ai-safety-resources/)
+- AI Ethics Resources, Rachel Thomas [resources list](https://www.fast.ai/2018/09/24/ai-ethics-resources/)
 
-# COURSES
+# COURSES<a class="anchor" id="cources"></a>
 #### Artificial Intelligence - Philosophy, Ethics, and Impact [CS122]	  
 Stanford	(2014)  
 [Link to course site](http://web.stanford.edu/class/cs122/)  
@@ -175,8 +187,10 @@ Casey Fiesler	(2018)
 [Link to Medium article acbout the resource](https://medium.com/@cfiesler/tech-ethics-curricula-a-collection-of-syllabi-3eedfb76be18)
 [Link to spreadsheet](https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0)
 
-# MISC.
+# MISC.<a class="anchor" id="misc"></a>
 - **podcast**: Potential Risks from Advanced Artificial Intelligence:  
 The Philanthropic Opportunity on how OpenAI is developing real solutions to the ‘AI alignment problem’, and his vision of how humanity will progressively hand over decision-making to AI systems 	
 Paul Christiano / 80,000 hours [listen here](https://80000hours.org/podcast/episodes/paul-christiano-ai-alignment-solutions/)
 - **podcasts** DataBites podcast by Data & Society	Data & Society [listen here](https://listen.datasociety.net/)
+- **video** 21 Fairness Definitions, Princeton (2018), 1h [youtube](https://www.youtube.com/watch?v=jIXIuYdnyyk)
+- **video** Machine Learning and Human Bias, Google	(2017) 2.5h [youtube](https://www.youtube.com/watch?v=59bMh59JQDo)
