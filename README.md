@@ -16,11 +16,11 @@
 
 - **Bit by Bit: Social Research in the Digital Age**	Matthew Salgnanik	(2017) [Read online](https://www.bitbybitbook.com/en/1st-ed/preface/)
 
-- **We Are Data: Algorithms and the Making of Our Digital Selves** John Cheney-Lippold	(2018) [Link to PDF - internal use only](https://drive.google.com/file/d/1rUyvEkmWzOky0JQXvMC5G737WPP38Jwf/view)
+- **We Are Data: Algorithms and the Making of Our Digital Selves** John Cheney-Lippold	(2018) 
 
-- **Automating Inequality: How High-Tech Tools Profile, Police and Punish the Poor**	Virginia Eubanks	(2018) [Link to PDF - internal use only](https://drive.google.com/file/d/18wGE_VblzHk0XQd8wbudo7PLdXxiJ8A9/view)
+- **Automating Inequality: How High-Tech Tools Profile, Police and Punish the Poor**	Virginia Eubanks	(2018) 
 
-- **Algorithms of Oppression: How Search Engines Reinforce Racism** Safiya Noble	2018 [Link to PDF - internal use only](https://drive.google.com/file/d/1L8qkI1Ma4YqTp9K4agbLHzUg6GOmnu2Q/view)
+- **Algorithms of Oppression: How Search Engines Reinforce Racism** Safiya Noble	2018 
 
 # ACADEMIC PAPERS<a class="anchor" id="aca"></a>
 - **Big Data’s Disparate Impact**	 Barocas & Selbst (2016), from NYU course [read here](www.californialawreview.org/wp-content/uploads/2016/06/2Barocas-Selbst.pdf)
