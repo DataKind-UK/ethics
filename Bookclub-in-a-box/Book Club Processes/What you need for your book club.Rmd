@@ -1,0 +1,68 @@
+---
+title: "What you need for the book club - processes and planning"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# In Progress Draft Document ONLY DO NOT USE
+
+# Preparation
+
+### Materials
+
+- **Choose whether you want everyone to read the same single piece or have a variety of sources.** 
+DataKind UK's initial plan was three materials (One book, 1 article, 1 paper) connected by an overarching theme which encompasses all three texts (and changes each month). In practice, we found more than three sources most times, and sometimes chose to focus on a single "main" piece. 
+- **Consider access**
+Not everyone wants to buy a book. we made sure some/all materials were free each time, and also made people aware of loans between community members, library use, etc. for books. Some attendees shared a book copy and shared reading duties!
+
+
+### What makes for good materials? 
+
+- Range of lengths
+- Range of technical degrees of difficulty (a news article can be just as revelatory as an academic data science article, and vice versa. This also applies to academic philosophy or sociology articles). 
+- Range of media. We used books, online articles, videos, etc. We also used fiction and poetry as well as reporting. 
+- Range of perspectives. DataKind UK ethics committee made an effort to look beyond what was coming out of US institutions. We didn't always succeed, and would like to cover more of a global perspective in future (looking for writing out of the global South more). Also this can be creative - a review article that quotes a lot of others will work!
+
+### Find a venue/s
+- **What sort of event is it?**
+  + One location in person only?
+  + Remote only? 
+  + Multiple locations? 
+  
+- **If at a location:**
+  + Who are the hosting venue? If it's a sponsor do due diligence for their reputation, accessibility of the room, inclusivity (are there gender-neutral bathrooms?) etc. 
+  + Will the host expect to speak to attendees about their awesome company and how they're hiring? Set aside time. 
+  + Check on capacity.
+  + Check on entry requirements (Does the building have a real name policy at security? Do people need ID? Do they need to be escorted through security individually so you have to factor in that time?)
+
+- **If remote:**
+  + Decide if via teleconference (and with/without video) or some public/invite-only text service like Slack or twitter. 
+  + It is possible to have long-term book clubs stretching over a month, with people commenting the whole time. We chose to do a set 2-hour discussion time but explore other options if you'd like! 
+
+  
+  
+### Prep for the event
+
+- **Invite people!**
+  + If within your community only, Slack/newsletter/Meetup/in-person spruiking. 
+  + If public, Twitter, open Eventbrite or Meetup events, etc. 
+  + In sufficient time that they can read materials. 
+- **Create and disseminate any pre-work** 
+  + Do you want people to think about any specific questions in advance or even to discuss them ahead of time? Some book clubs have pre-meeting questions for consideration or set up an active discussion (on Slack for example) before the event. DataKind UK considered but never actually did this (yet!), because of the load on volunteer committee members and because it seemed like many attendees of the book clubs read things at the last minute!
+- **Decide on host/s and possible facilitator/s.**
+  + we found that small groups (5-9) were the best size for discussion and allocated facilitators accordingly. 
+  + Same host every time? rotating host? choose!
+- **Decide on Designated Tweeter/s (DTs)**
+  + We found that people who are engaged in discussions don't tweet. That's great as it means they're engaged with the actual community around them. However, if you do want to show what's happening and open it up for other perspectives, having 1-2 folk who roam between small groups and tweet what they hear, while taking a less active role in the discussion themselves, is highly recommended. At DataKind UK the key tweeters were the staff. 
+- **Plan snacks**
+  + If at a location. Snacks help book clubs succeed. Do try and ensure budget for snacks/drinks, if possible, or ask people to bring something if they can, as an alternative (obviously without any pressure, compulsory food-bringing sounds like a bad idea!). 
+  
+  
+### Hosting
+  + 
+  + Snacks help book clubs! Do try and ensure budget for snacks/drinks, if possible. 
+  
+  
